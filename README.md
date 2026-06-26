@@ -52,7 +52,8 @@ VidyaGuard AI is a **production-grade AI agent** — not a chatbot wrapper — b
 
 ![VidyaGuard AI System Architecture](./architechture.png)
 
-> Full architecture generated via HiDevs Architecture Copilot. [Download PDF](./architecture-a2.pdf)
+> Full architecture generated via HiDevs Architecture Copilot. [Download PDF](./architecture.pdf)
+
 
 ### Architecture Highlights
 
